@@ -32,5 +32,26 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_material'
 
+html_static_path = ['_static']
+
+html_css_files = [
+    'custom1.css',
+]
+html_title = "Documentation"
+
+html_favicon = '_static/favicon.png'
+html_logo = '_static/favicon.png'
+html_show_sourcelink = False
+
+html_sidebars = {
+    "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
+}
+html_theme_options = {
+    'globaltoc_collapse': True,
+    'globaltoc_includehidden': False,
+    'globaltoc_depth': 3,
+    'color_accent': 'light-blue',
+}
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
