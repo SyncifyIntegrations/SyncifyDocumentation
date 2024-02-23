@@ -47,7 +47,7 @@ html_sidebars = {
     "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
 }
 html_theme_options = {
-    'globaltoc_collapse': True,
+    'globaltoc_collapse': False,
     'globaltoc_includehidden': False,
     'globaltoc_depth': 3,
     'color_accent': 'light-blue',

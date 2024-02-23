@@ -5,13 +5,13 @@ Business Central
 Overview
 =========
 
-This integration is designed to streamline your business processes by enabling seamless data transfer between Business Central, a leading enterprise resource planning (ERP) solution, and Upsales, a robust customer relationship management (CRM) platform. 
+This integration is designed to streamline your business processes by enabling seamless data transfer between Business Central, a leading enterprise resource planning system, and Upsales, a robust customer relationship management system. 
 By leveraging the strengths of both systems, businesses can enhance their operational efficiency, improve data accuracy, and offer superior customer experiences.
 
 Save time with automatic transfer of your orders/invoices to Business Central, and eliminate the double work of entering data into two systems. This process streamlines operations, enhancing efficiency by automating tasks that would otherwise require manual input across different platforms.
 
 How it works
------------------
+------------------
 
 - Migrate data from Business Central to ensure that Upsales has all the latest data from the ERP system. The migration includes all historic customers, contact persons, products, invoices/orders (depending on chosen module).
 - All created or updated products in Business Central are automatically synchronized to Upsales.
@@ -30,7 +30,7 @@ Activating Business Central Application
 The boarding process is designed to be efficient and straightforward, ensuring a smooth and hassle-free experience.
 
 
-`Click here to read a step by step tutorial of the boarding process. <https://example.com>`_
+`Click here to read a step by step tutorial of the boarding process. <https://syncify.se>`_
 
 +---------------------------------+--------------------------------------------------------------------------------------+
 | **App Setting**                 | **Specification**                                                                    |
@@ -64,6 +64,7 @@ The boarding process is designed to be efficient and straightforward, ensuring a
 |                                 | you’re done.                                                                         |
 |                                 |                                                                                      |
 +---------------------------------+--------------------------------------------------------------------------------------+
+
 .. note::
     To sync multiple Business Central companies to Upsales, please get in touch with your contact
     person.
@@ -101,4 +102,4 @@ Orders
 .. important::
 
    The integration does **NOT** 
-   sync deletions between the systems. For instance, if a customer is deleted in Upsales, it is **NOT** deleted in Business Central, the same goes for the other way around.
+   sync deletions between the systems. For instance, if a customer is deleted in Upsales, it is **NOT** deleted in Monitor, the same goes for the other way around, and all syncs.

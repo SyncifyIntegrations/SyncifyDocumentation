@@ -12,4 +12,3 @@ Integrations
    :maxdepth: 2
 
    upsales/index
-   lime/index
