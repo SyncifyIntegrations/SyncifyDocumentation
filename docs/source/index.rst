@@ -9,6 +9,6 @@ The purpose of this documentation is to give an overview of how our integrations
 Integrations
 =====================
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    upsales/index

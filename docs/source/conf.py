@@ -49,7 +49,7 @@ html_sidebars = {
 html_theme_options = {
     'globaltoc_collapse': False,
     'globaltoc_includehidden': False,
-    'globaltoc_depth': 3,
+    'globaltoc_depth': 4,
     'color_accent': 'light-blue',
 }
 

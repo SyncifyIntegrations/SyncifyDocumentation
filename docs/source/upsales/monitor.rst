@@ -10,6 +10,11 @@ This integration streamlines operations, reduces manual data entry, and ensures 
 
 Save time with automatic transfer of your orders/invoices to Monitor, and eliminate the double work of entering data into two systems. This process streamlines operations, enhancing efficiency by automating tasks that would otherwise require manual input across different platforms.
 
+Printscreens
+=============
+
+:doc:`Default field mappings for the integration can be found here. <monitor/monitor-printscreens>`
+
 How it works
 -----------------
 
@@ -27,9 +32,7 @@ Customize your integration
 Activating Monitor Application
 --------------------------------------------
 
-The boarding process is designed to be efficient and straightforward, ensuring a smooth and hassle-free experience.
-
-`Click here to read a step by step tutorial of the Monitor boarding process. <https://syncify.se>`_
+In order to get the service up and running, we have to access your Monitor-server and install our service. To start this process, please get in contact with your contact person, or Syncify at kundsupport@syncify.se.
 
 App Settings
 ---------------
@@ -126,7 +129,7 @@ App Settings
     To sync multiple Monitor companies to Upsales, please get in touch with your contact
     person.
 
-Detailed description
+Detailed Service Description
 ========================
 
 Initial migration

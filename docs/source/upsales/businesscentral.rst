@@ -10,6 +10,11 @@ By leveraging the strengths of both systems, businesses can enhance their operat
 
 Save time with automatic transfer of your orders/invoices to Business Central, and eliminate the double work of entering data into two systems. This process streamlines operations, enhancing efficiency by automating tasks that would otherwise require manual input across different platforms.
 
+Printscreens
+=============
+
+:doc:`Default field mappings for the integration can be found here. <businesscentral/businesscentral-printscreens>`
+
 How it works
 ------------------
 
@@ -24,13 +29,15 @@ Customize your integration
 - The integration is customizable to precisely match your needs. Whether you're looking to add or exclude specific fields from the integration, necessary adjustments can be made with ease.
 - Need to synchronize more than one company in Business Central to Upsales? We got you covered!
 
-Activating Business Central Application
---------------------------------------------
+Boarding Guide
+==================
 
 The boarding process is designed to be efficient and straightforward, ensuring a smooth and hassle-free experience.
 
+:doc:`Click here to read a step by step tutorial of the boarding process. <businesscentral/businesscentral-boarding>`
 
-`Click here to read a step by step tutorial of the boarding process. <https://syncify.se>`_
+Application Settings
+==========================================
 
 +---------------------------------+--------------------------------------------------------------------------------------+
 | **App Setting**                 | **Specification**                                                                    |
@@ -69,7 +76,7 @@ The boarding process is designed to be efficient and straightforward, ensuring a
     To sync multiple Business Central companies to Upsales, please get in touch with your contact
     person.
 
-Detailed description
+Detailed Service Description
 =======================
 
 Initial migration
