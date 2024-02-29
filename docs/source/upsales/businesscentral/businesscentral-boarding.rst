@@ -17,25 +17,25 @@ This page is designed to offer comprehensive guidance on integrating Business Ce
 
 **2.** To proceed, click on the "Apps" tab located in the navigation menu of your Upsales CRM account. This will allow you to access and manage the various applications and integrations available for use within the platform.
 
-.. image:: /_static/printscreens/bc/boarding/BC-Boarding1.png
+.. image:: /_static/printscreens/bc/boarding/BC-boarding1.png
 
 **3.** Please search for **Business Central by Syncify** and click on it to proceed.
 
-.. image:: /_static/printscreens/bc/boarding/BC-Boarding2.png
+.. image:: /_static/printscreens/bc/boarding/BC-boarding2.png
 
 **4.** Look for the **Buy** button, and click on it to initiate the activation process. This may involve providing some additional information or permissions, depending on the specific requirements of the integration.
 
-.. image:: /_static/printscreens/bc/boarding/BC-Boarding3.png
+.. image:: /_static/printscreens/bc/boarding/BC-boarding3.png
 
 **5.** Accept the terms and conditions.
 
 **6.** Now head to Business Central and search for **Web Services** (may vary depending on language), then click on it to proceed.
 
-.. image:: /_static/printscreens/bc/boarding/BC-Boarding4.png
+.. image:: /_static/printscreens/bc/boarding/BC-boarding4.png
 
 **7.** Click on **Edit List** once you have accessed the **Web Services** page in Microsoft Business Central.
 
-.. image:: /_static/printscreens/bc/boarding/BC-Boarding5.png
+.. image:: /_static/printscreens/bc/boarding/BC-boarding5.png
 
 **8.** Make sure the following web service pages are active: 
 
@@ -66,12 +66,12 @@ If any web service is missing, please go ahead and click **New**. The object typ
 
 **10.** Once the web services are added, please click on **Sign in with Microsoft** in the Business Central App.
 
-.. image:: /_static/printscreens/bc/boarding/BC-Boarding6.png
+.. image:: /_static/printscreens/bc/boarding/BC-boarding6.png
 
 **11.** After the login and authorization process is complete, you will need to provide information about the specific Microsoft Business Central company that you want to integrate with Upsales CRM. 
 Do this by following the instructions that are provided on the website.
 
-.. image:: /_static/printscreens/bc/boarding/BC-Boarding7.png
+.. image:: /_static/printscreens/bc/boarding/BC-boarding7.png
 
 **12.** If everything goes right, you’ll return to the **Business Central App** in Upsales and be able to press **Save**. Once this is done your integration is all set. You should also recieve a notification
 in Upsales that the integration has successfully saved its configuration.
