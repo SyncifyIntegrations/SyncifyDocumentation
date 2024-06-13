@@ -140,26 +140,23 @@ All customers, products, invoices/orders from Monitor are synced to Upsales.
 
 Companies
 -------------
-    - Creating a company in Upsales? Syncing occurs only if the company's status in the journey is not marked as 'Lead'.
+    - Creating a company in Upsales? Syncing occurs only if the company's status in the journey is marked as 'Customer'. This can however be changed in the configuration.
     - Creating a company in Monitor? Syncing with Upsales happens automatically.
-    - Updates made on a company? As long as the journey status is not “Lead”, syncing will occur automatically. Companies from Monitor always sync automatically.
+    - Updates made on a company? As long as the journey status is 'Customer' (or whatever configured status), syncing will occur automatically from Upsales. Company updates from Monitor always sync automatically.
 
 Products
 -------------
-    - Products are only synced from Monitor to Upsales.
+    - Products are only synced from Monitor to Upsales. This happens automatically whenever a new product is created or updated in Monitor.
 
 Invoices
 --------------
-    - You can choose to sync sales in Upsales to orders or invoices in Monitor.
-    - Choose invoice, and an invoice is automatically created in Monitor when a sale/opportunity has 100% probability.
-    - Invoices created in Monitor are automatically synced to Upsales as well.
+    - Invoices created in Monitor are automatically synced to Upsales.
 
 Orders
 --------------
-    - Choose order, and an order is automatically created in Monitor when a sale/opportunity has 100% probability.
-    - Orders created in Monitor are automatically synced to Upsales as well.
+    - Orders are automatically created in Monitor when a sale/opportunity reaches the configured order stage in Upsales.
 
 .. important::
 
    The integration does **NOT** 
-   sync deletions between the systems. For instance, if a customer is deleted in Upsales, it is **NOT** deleted in Monitor, the same goes for the other way around, and all syncs.
+   sync deletions between the systems. For instance, if a customer is deleted in Upsales, it is **NOT** deleted in Monitor, the same goes for the other way around, and all synced objects.
