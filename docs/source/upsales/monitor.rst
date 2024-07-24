@@ -130,7 +130,7 @@ App Settings
     person.
 
 Detailed Service Description
-========================
+==============================
 
 Initial migration
 ---------------------

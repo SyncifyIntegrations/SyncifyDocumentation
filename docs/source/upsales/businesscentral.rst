@@ -77,7 +77,7 @@ Application Settings
     person.
 
 Detailed Service Description
-=======================
+==============================
 
 Initial migration
 ---------------------
@@ -109,4 +109,4 @@ Orders
 .. important::
 
    The integration does **NOT** 
-   sync deletions between the systems. For instance, if a customer is deleted in Upsales, it is **NOT** deleted in Monitor, the same goes for the other way around, and all syncs.
+   sync deletions between the systems. For instance, if a customer is deleted in Upsales, it is **NOT** deleted in Business Central, the same goes for the other way around, and all syncs.
